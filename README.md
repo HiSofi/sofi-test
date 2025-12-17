@@ -1,4 +1,3 @@
-# ============================================================
 # :quebra_cabeça: Problema: Agrupar Palavras por Prefixo Comum
 #
 # Descrição:
@@ -24,7 +23,7 @@
 # Complexidade Esperada:
 #   O(k * m), onde k é o número de palavras e m é o comprimento médio das palavras.
 #
-# ============================================================
+
 #
 # ## O Desafio: `challenge.rb`
 #
