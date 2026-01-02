@@ -6,6 +6,36 @@ Implemente um método chamado `group_by_prefix(words, n)` que agrupa um array de
 
 ---
 
+## 🚀 Instruções do Processo Seletivo
+
+1. **Use este repositório como template**
+   - Clique em **“Use this template”** no GitHub para criar um repositório **próprio** a partir deste.
+   - Não faça fork diretamente; o repositório deve ser criado a partir do template.
+
+2. **Implemente a solução**
+   - Desenvolva o desafio no seu repositório.
+   - A implementação deve ser feita no arquivo `challenge.rb`, na seção indicada como **TODO**.
+   - Garanta que todos os testes estejam passando.
+
+3. **Compartilhe o acesso para revisão**
+   - Após concluir o desafio, adicione os seguintes emails como **colaboradores** do seu repositório no GitHub:
+
+     ```
+     juliobudal@hisofi.com
+     robinson.silva@hisofi.com
+     leonardoquadros@hisofi.com
+     ```
+
+4. **Avaliação**
+   - O código será avaliado com base em:
+     - Correção da solução
+     - Clareza e legibilidade
+     - Organização
+     - Boas práticas em Ruby
+     - Aderência aos requisitos propostos
+
+---
+
 ## ✅ Requisitos
 
 * Apenas palavras com **pelo menos `n` caracteres** devem ser consideradas
