@@ -6,7 +6,7 @@ Implemente um método chamado `group_by_prefix(words, n)` que agrupa um array de
 
 ---
 
-## 🚀 Instruções do Processo Seletivo
+## 🚀 Instruções do Desafio
 
 1. **Use este repositório como template**
    - Clique em **“Use this template”** no GitHub para criar um repositório **próprio** a partir deste.
